@@ -1,9 +1,10 @@
+<section background-color: black>
 <div align="center">
 <h1 align="center">Hola, soy Frank Jaimes</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/JsG45ka.gif" alt="GIF de Imgur">
+<img src="https://i.imgur.com/JsG45ka.gif" alt="GIF de Imgur" width="300" height="200">
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
+##**Sobre Mi**
 
 <br>
 
@@ -12,6 +13,6 @@
 - ✏️ Estudiante de Desarrollo de Sistemas Informáticos
 - 🔎 En busca de proyectos desafiantes
 
-## <b> Contactame! </b><img src="https://github.com/Fsjaimes" width ="80">
+##**Contactame!**
 
-
+</section>
