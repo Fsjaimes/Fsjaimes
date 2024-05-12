@@ -1,8 +1,8 @@
-<section background-color: black>
+<section background-color= black>
 <div align="center">
 <h1 align="center">Hola, soy Frank Jaimes</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/JsG45ka.gif" alt="GIF de Imgur" width="1000" height="500">
+<img src="https://i.imgur.com/JsG45ka.gif" alt="GIF de Imgur" width="1000" height="450">
 
 ##**Sobre Mi**
 
