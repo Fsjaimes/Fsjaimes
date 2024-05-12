@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Frank Jaimes</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://i.imgur.com/JsG45ka">
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
 
