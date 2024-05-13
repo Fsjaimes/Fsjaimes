@@ -14,21 +14,19 @@
 
 
   
-### 🌐 Contact Me:
+# 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)([www.linkedin.com/in/frank-jaimes-416913290](https://www.linkedin.com/in/frank-jaimes-416913290/)] 
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Fsjaimes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fsjaimes&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsjaimes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Fsjaimes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=Fsjaimes&icon=5&color=12)](https://visitcount.itsvg.in)
 
-
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
