@@ -1,4 +1,4 @@
-<section style="background-color: blue;">
+<section id="miSection" style="background-color: black;">
 <div align="center">
 <h1 align="center">Hola, soy Frank Jaimes</a> 👋</h1>
 </div>
