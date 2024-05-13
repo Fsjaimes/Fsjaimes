@@ -6,7 +6,10 @@
 
 
 # 💫 About Me:
-- 🧑‍💻 Desarrollador Jr<br>- 🖥️ Apasionado por el código y la tecnología<br>- ✏️ Estudiante de Desarrollo de Sistemas Informáticos<br>- 🔎 En busca de proyectos desafiantes
+<br>- 🧑‍💻 Desarrollador Jr
+<br>- 🖥️ Apasionado por el código y la tecnología
+<br>- ✏️ Estudiante de Desarrollo de Sistemas Informáticos
+<br>- 🔎 En busca de proyectos desafiantes
 
 
 # 💻 Tech Stack:
@@ -15,7 +18,7 @@
 
 # 🌐 Contact Me:
 <a href="https://www.linkedin.com/in/frank-jaimes-416913290" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin:frank--jaimes--416913290-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Frank Jaimes" style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Frank Jaimes" style="margin-bottom: 5px;"/>
 </a>
 
 # 📊 &nbsp;GitHub Stats:
