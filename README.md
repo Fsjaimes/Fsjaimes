@@ -6,10 +6,16 @@
 
 
 # 💫 About Me:
-<br>- 🧑‍💻 Desarrollador Jr
-<br>- 🖥️ Apasionado por el código y la tecnología
+<ul>
+  <li>🧑‍💻 Desarrollador Jr</li>
+  <li>🖥️ Apasionado por el código y la tecnología</li>
+  <li>✏️ Estudiante de Desarrollo de Sistemas Informáticos</li>
+  <li>🔎 En busca de proyectos desafiantes</li>
+</ul>
+<br>- 
+<br>- 
 <br>- ✏️ Estudiante de Desarrollo de Sistemas Informáticos
-<br>- 🔎 En busca de proyectos desafiantes
+<br>- 
 
 
 # 💻 Tech Stack:
