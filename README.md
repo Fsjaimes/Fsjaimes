@@ -20,6 +20,9 @@
 <a href="https://www.linkedin.com/in/frank-jaimes-416913290" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Frank Jaimes" style="margin-bottom: 5px;"/>
 </a>
+<a href="mailto:franchojaimes07@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 
 # 📊 &nbsp;GitHub Stats:
 <p align="center">
@@ -28,6 +31,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fsjaimes&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
+
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Fsjaimes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fsjaimes&theme=tokyonight&hide_border=false)<br/>
