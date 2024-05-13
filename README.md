@@ -6,14 +6,14 @@
 
 
 # 💫 About Me:
-<ul style="list-style-type: none">
+<ul style="list-style-type: none;">
   <li>🧑‍💻 Desarrollador Jr</li>
   <li>🖥️ Apasionado por el código y la tecnología</li>
   <li>✏️ Estudiante de Desarrollo de Sistemas Informáticos</li>
   <li>🔎 En busca de proyectos desafiantes</li>
 </ul>
 
-- 🧑‍💻 Desarrollador Jr</li>
+&#8203;🧑‍💻 Desarrollador Jr</li>
 - 🖥️ Apasionado por el código y la tecnología
 - ✏️ Estudiante de Desarrollo de Sistemas Informáticos
 - 🔎 En busca de proyectos desafiantes
