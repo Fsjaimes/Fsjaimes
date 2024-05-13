@@ -15,9 +15,12 @@
 
 # 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)([www.linkedin.com/in/frank-jaimes-416913290](https://www.linkedin.com/in/frank-jaimes-416913290/)] 
+[![LinkedIn](https://img.shields.io/twitch/status/?style=social)]([https://www.twitch.tv/aristidevs](https://www.linkedin.com/in/frank-jaimes-416913290/)
+
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 
 
-## 📊 &nbsp;GitHub Stats:
+# 📊 &nbsp;GitHub Stats:
 <p align="center">
 <a href="https://github.com/Fsjaimes">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fsjaimes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
