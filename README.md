@@ -22,20 +22,25 @@
 ## 📊 &nbsp;GitHub Stats:
 <p align="center">
 <a href="https://github.com/Fsjaimes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fsjaimes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fsjaimes&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fsjaimes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fsjaimes&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=Fsjaimes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fsjaimes&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsjaimes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
+
 <hr>
 <br>
 
-## 🔝 Top Contributed Repo
+<!--## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Fsjaimes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=Fsjaimes&icon=5&color=12)](https://visitcount.itsvg.in)
+-->
+
 <hr>
 <br>
 
