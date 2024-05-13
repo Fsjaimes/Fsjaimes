@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-<ul style="list-style-type: none;">
+<ul style="list-style-type: none">
   <li>🧑‍💻 Desarrollador Jr</li>
   <li>🖥️ Apasionado por el código y la tecnología</li>
   <li>✏️ Estudiante de Desarrollo de Sistemas Informáticos</li>
