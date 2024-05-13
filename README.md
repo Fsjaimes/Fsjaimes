@@ -14,6 +14,10 @@
 
 
 # 🌐 Contact Me:
+<a href="https://www.linkedin.com/in/frank-jaimes-416913290" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin:frank--jaimes--416913290-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Frank Jaimes" style="margin-bottom: 5px;"/>
+</a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)([www.linkedin.com/in/frank-jaimes-416913290](https://www.linkedin.com/in/frank-jaimes-416913290/)] 
 [![LinkedIn](https://img.shields.io/twitch/status/?style=social)]([https://www.twitch.tv/aristidevs](https://www.linkedin.com/in/frank-jaimes-416913290/)
 
