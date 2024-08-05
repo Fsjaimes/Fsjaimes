@@ -17,7 +17,7 @@
 
 
 # 🌐 Contact Me:
-<a href="https://www.linkedin.com/in/frank-jaimes-416913290" target="_blank">
+<a href="https://www.linkedin.com/in/frank-jaimes" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Frank Jaimes" style="margin-bottom: 5px;"/>
 </a>
 <a href="mailto:franchojaimes07@gmail.com" target="_blank">
