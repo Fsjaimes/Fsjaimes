@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 align="center">Hola, soy Frank Jaimes</a> 👋</h1>
+<h1 align="center"> Hi, I'm Frank Jaimes </a> 👋</h1>
 
 <!-- <img src="https://i.imgur.com/JsG45ka.gif" alt="GIF de Imgur" width="1000" height="475"> -->
 
