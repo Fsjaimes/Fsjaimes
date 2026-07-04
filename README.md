@@ -9,7 +9,7 @@
 
 &#8203;🧑‍💻 Web Developer | FullStack Developer <br>
 &#8203;🖥️ Passionate about code and technology <br>
-&#8203;✏️ Computer Systems Development Student <br>
+&#8203;✏️ System Enginer <br>
 <!-- &#8203;🔎 En busca de proyectos desafiantes <br> -->
 
 # 💻 Tech Stack:
