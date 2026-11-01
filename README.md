@@ -1,56 +1,65 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e3f,50:1d4ed8,100:3b82f6&height=200&section=header&text=Frank%20Jaimes&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20FullStack%20Developer&descSize=18&descAlignY=58" width="100%" alt="Frank Jaimes"/>
+
 <div align="center">
 
-<img src="./assets/contributions.svg" alt="Contribuciones de Frank Jaimes en el último año" width="100%"/>
+<img src="https://github.com/Fsjaimes.png" width="120" alt="Avatar de Frank Jaimes"/>
 
-<img src="./assets/whoami.svg" alt="Retrato ASCII y estadísticas de GitHub de Frank Jaimes" width="100%"/>
+### Hi, I'm Frank 👋
+
+I build web applications end to end, mostly with **Laravel, Vue and Inertia**.<br>
+Systems Engineering student, passionate about clean code and technology.
+
+<a href="https://www.linkedin.com/in/frank-jaimes"><img src="https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:franchojaimes07@gmail.com"><img src="https://img.shields.io/badge/Gmail-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/Fsjaimes"><img src="https://img.shields.io/github/followers/Fsjaimes?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=1d4ed8" alt="Followers"/></a>
 
 </div>
 
-### `$ cat about.txt`
+<br>
 
-```yaml
-name:      Frank Jaimes
-role:      Web Developer · FullStack Developer
-studies:   Systems Engineering
-passion:   code & technology
-```
+## 🧰 Tech Stack
 
-### `$ ls ~/stack`
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Nodemon-0d1117?style=for-the-badge&logo=nodemon&logoColor=76D04B" alt="Nodemon"/>
-  <img src="https://img.shields.io/badge/Spring-0d1117?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-0d1117?style=for-the-badge&logo=thymeleaf&logoColor=3FB950" alt="Thymeleaf"/>
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05033" alt="Git"/>
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-0d1117?style=for-the-badge&logo=windows-terminal&logoColor=e6edf3" alt="Windows Terminal"/>
-</p>
+**Backend**<br>
+<img src="https://img.shields.io/badge/PHP-0b1e3f?style=for-the-badge&logo=php&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/Laravel-0b1e3f?style=for-the-badge&logo=laravel&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/Java-0b1e3f?style=for-the-badge&logo=openjdk&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/Spring-0b1e3f?style=for-the-badge&logo=spring&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/Node.js-0b1e3f?style=for-the-badge&logo=node.js&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/Express.js-0b1e3f?style=for-the-badge&logo=express&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/Nodemon-0b1e3f?style=for-the-badge&logo=nodemon&logoColor=93c5fd"/>
 
-### `$ ./top-languages.sh`
+**Frontend**<br>
+<img src="https://img.shields.io/badge/Vue.js-0b1e3f?style=for-the-badge&logo=vuedotjs&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/Inertia-0b1e3f?style=for-the-badge&logo=inertia&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/JavaScript-0b1e3f?style=for-the-badge&logo=javascript&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/HTML5-0b1e3f?style=for-the-badge&logo=html5&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/CSS3-0b1e3f?style=for-the-badge&logo=css3&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/Thymeleaf-0b1e3f?style=for-the-badge&logo=thymeleaf&logoColor=93c5fd"/>
 
-<p align="left">
-  <a href="https://github.com/Fsjaimes">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fsjaimes&layout=compact&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=e6edf3&border_color=30363d&custom_title=languages" alt="Lenguajes más usados"/>
-  </a>
-</p>
+**Databases & Tools**<br>
+<img src="https://img.shields.io/badge/MySQL-0b1e3f?style=for-the-badge&logo=mysql&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0b1e3f?style=for-the-badge&logo=postgresql&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/Git-0b1e3f?style=for-the-badge&logo=git&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/Postman-0b1e3f?style=for-the-badge&logo=postman&logoColor=93c5fd"/>
+<img src="https://img.shields.io/badge/Windows%20Terminal-0b1e3f?style=for-the-badge&logo=windows-terminal&logoColor=93c5fd"/>
 
-### `$ contact --me`
+</div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/frank-jaimes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn de Frank Jaimes"/>
-  </a>
-  <a href="mailto:franchojaimes07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Correo de Frank Jaimes"/>
-  </a>
-</p>
+<br>
 
-<!-- Los SVG de /assets se regeneran a diario con .github/workflows/update-readme.yml -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fsjaimes&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0b1e3f&title_color=60a5fa&icon_color=3b82f6&text_color=dbeafe&ring_color=3b82f6&hide_border=true&border_radius=12" alt="Estadísticas"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fsjaimes&layout=compact&langs_count=8&bg_color=0b1e3f&title_color=60a5fa&text_color=dbeafe&hide_border=true&border_radius=12" alt="Lenguajes más usados"/>
+
+<img src="https://streak-stats.demolab.com?user=Fsjaimes&background=0b1e3f&ring=3b82f6&fire=60a5fa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=93c5fd&sideLabels=93c5fd&dates=94a3b8&stroke=1e3a8a&hide_border=true&border_radius=12" alt="Racha de contribuciones"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fsjaimes&bg_color=0b1e3f&color=93c5fd&line=3b82f6&point=ffffff&area=true&area_color=1d4ed8&title_color=60a5fa&hide_border=true&radius=12&custom_title=Contributions%20in%20the%20last%20year" alt="Gráfica de contribuciones"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1d4ed8,100:0b1e3f&height=120&section=footer" width="100%"/>
