@@ -1,50 +1,56 @@
-
 <div align="center">
-<h1 align="center"> Hi, I'm Frank Jaimes </a> 👋</h1>
 
-<!-- <img src="https://i.imgur.com/JsG45ka.gif" alt="GIF de Imgur" width="1000" height="475"> -->
+<img src="./assets/contributions.svg" alt="Contribuciones de Frank Jaimes en el último año" width="100%"/>
 
+<img src="./assets/whoami.svg" alt="Retrato ASCII y estadísticas de GitHub de Frank Jaimes" width="100%"/>
 
-# 💫 About Me:
-
-&#8203;🧑‍💻 Web Developer | FullStack Developer <br>
-&#8203;🖥️ Passionate about code and technology <br>
-&#8203;✏️ System Enginer <br>
-<!-- &#8203;🔎 En busca de proyectos desafiantes <br> -->
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-# 🌐 Contact Me:
-<a href="https://www.linkedin.com/in/frank-jaimes" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Frank Jaimes" style="margin-bottom: 5px;"/>
-</a>
-<a href="mailto:franchojaimes07@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
 </div>
 
-# 📊 &nbsp;GitHub Stats:
-<p align="center">
-<a href="https://github.com/Fsjaimes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fsjaimes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fsjaimes&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
+### `$ cat about.txt`
+
+```yaml
+name:      Frank Jaimes
+role:      Web Developer · FullStack Developer
+studies:   Systems Engineering
+passion:   code & technology
+```
+
+### `$ ls ~/stack`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Nodemon-0d1117?style=for-the-badge&logo=nodemon&logoColor=76D04B" alt="Nodemon"/>
+  <img src="https://img.shields.io/badge/Spring-0d1117?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-0d1117?style=for-the-badge&logo=thymeleaf&logoColor=3FB950" alt="Thymeleaf"/>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05033" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-0d1117?style=for-the-badge&logo=windows-terminal&logoColor=e6edf3" alt="Windows Terminal"/>
 </p>
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=Fsjaimes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fsjaimes&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsjaimes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
+### `$ ./top-languages.sh`
 
-<!--## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Fsjaimes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://github.com/Fsjaimes">
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fsjaimes&layout=compact&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=e6edf3&border_color=30363d&custom_title=languages" alt="Lenguajes más usados"/>
+  </a>
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=Fsjaimes&icon=5&color=12)](https://visitcount.itsvg.in)
--->
+### `$ contact --me`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/frank-jaimes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn de Frank Jaimes"/>
+  </a>
+  <a href="mailto:franchojaimes07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Correo de Frank Jaimes"/>
+  </a>
+</p>
 
-
+<!-- Los SVG de /assets se regeneran a diario con .github/workflows/update-readme.yml -->
