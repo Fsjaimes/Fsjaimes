@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+  <defs>
+    <clipPath id="card"><rect x="3" y="3" width="894" height="234" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .t{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#111}
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#111}
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="900" height="240" fill="#D2E6FB"/>
+    <path d="M640 240 C670 170 715 140 760 138 C820 136 860 150 900 128 L900 240 Z"
+          fill="#4085E1" stroke="#111" stroke-width="3.5" stroke-linejoin="round"/>
+    <path d="M775 175 C781 198 783 220 781 240" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <g stroke="#111" stroke-width="1.6" stroke-linecap="round" opacity=".55">
+      <path d="M640 52l3 5M652 47l2 6M664 55l3 5M676 49l2 6M688 56l3 5M700 50l2 6M712 57l3 5M724 51l2 6M736 58l3 5M748 52l2 6M760 59l3 5M772 53l2 6"/>
+      <path d="M646 70l3 5M658 66l2 6M670 73l3 5M682 68l2 6M694 75l3 5M706 69l2 6M718 76l3 5M730 70l2 6M742 77l3 5M754 71l2 6"/>
+    </g>
+    <circle cx="820" cy="62" r="22" fill="#fff" stroke="#111" stroke-width="3"/>
+    <text class="m" x="820" y="69" font-size="17" font-weight="700" text-anchor="middle">&lt;/&gt;</text>
+  </g>
+  <rect x="3" y="3" width="894" height="234" rx="20" fill="none" stroke="#111" stroke-width="3.5"/>
+  <text class="m" x="56" y="74" font-size="16" style="fill:#2F6FCB">~/Fsjaimes</text>
+  <text class="t" x="54" y="128" font-size="48" font-weight="800">Hi, I'm Frank Jaimes</text>
+  <text class="t" x="56" y="166" font-size="20">Full-Stack Web Developer · Systems Engineering student</text>
+  <g transform="translate(56 186)">
+    <rect width="236" height="30" rx="15" fill="#4085E1" stroke="#111" stroke-width="2.5"/>
+    <text class="m" x="118" y="20" font-size="13.5" font-weight="700" text-anchor="middle" style="fill:#fff">Laravel · Vue · Inertia</text>
+  </g>
+</svg>

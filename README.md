@@ -1,45 +1,58 @@
-<h1>Frank Jaimes</h1>
+<img src="./assets/banner.svg" width="100%" alt="Hi, I'm Frank Jaimes"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-3b82f6?style=flat-square" alt="Full-Stack Developer"/>
-  <img src="https://img.shields.io/badge/Systems_Engineering-21262d?style=flat-square" alt="Systems Engineering"/>
-</p>
+<div align="center">
 
-I build web applications end to end, mostly with Laravel, Vue and Inertia.
-I care about clean code, solid architecture and products that are easy to maintain.
+<a href="https://www.linkedin.com/in/frank-jaimes"><img src="https://img.shields.io/badge/LinkedIn-4085E1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:franchojaimes07@gmail.com"><img src="https://img.shields.io/badge/Email-4085E1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Fsjaimes?tab=repositories"><img src="https://img.shields.io/badge/Repositories-4085E1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
-<a href="https://www.linkedin.com/in/frank-jaimes"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="32" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:franchojaimes07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="32" alt="Email"/></a>
+</div>
 
+## 👋 About me
+
+I'm a **Full-Stack Web Developer** from Colombia. I build web applications end to end, mostly with **Laravel, Vue and Inertia**, and I'm currently studying **Systems Engineering**.
+I enjoy turning business processes into clean, maintainable software.
+
+- 💼 Building web platforms with a development team
+- 🎓 Systems Engineering student
+- 🌱 Always learning about software architecture and good practices
+
+## 🛠️ Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-D2E6FB?style=for-the-badge&logo=php&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Laravel-D2E6FB?style=for-the-badge&logo=laravel&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Vue.js-D2E6FB?style=for-the-badge&logo=vuedotjs&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Inertia-D2E6FB?style=for-the-badge&logo=inertia&logoColor=111111"/>
+<img src="https://img.shields.io/badge/JavaScript-D2E6FB?style=for-the-badge&logo=javascript&logoColor=111111"/>
+<img src="https://img.shields.io/badge/HTML5-D2E6FB?style=for-the-badge&logo=html5&logoColor=111111"/>
+<img src="https://img.shields.io/badge/CSS3-D2E6FB?style=for-the-badge&logo=css3&logoColor=111111"/>
 <br>
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,java,spring,nodejs,express,mysql,postgres,git,postman&theme=dark&perline=14" alt="Stack"/>
-
-`Inertia` `Nodemon` `Thymeleaf` `Windows Terminal`
-
+<img src="https://img.shields.io/badge/Java-D2E6FB?style=for-the-badge&logo=openjdk&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Spring-D2E6FB?style=for-the-badge&logo=spring&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Thymeleaf-D2E6FB?style=for-the-badge&logo=thymeleaf&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Node.js-D2E6FB?style=for-the-badge&logo=node.js&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Express-D2E6FB?style=for-the-badge&logo=express&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Nodemon-D2E6FB?style=for-the-badge&logo=nodemon&logoColor=111111"/>
 <br>
+<img src="https://img.shields.io/badge/MySQL-D2E6FB?style=for-the-badge&logo=mysql&logoColor=111111"/>
+<img src="https://img.shields.io/badge/PostgreSQL-D2E6FB?style=for-the-badge&logo=postgresql&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Git-D2E6FB?style=for-the-badge&logo=git&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Postman-D2E6FB?style=for-the-badge&logo=postman&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Windows_Terminal-D2E6FB?style=for-the-badge&logo=windowsterminal&logoColor=111111"/>
 
-### Activity
+</div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fsjaimes&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_title=true&bg_color=00000000&text_color=8b949e&icon_color=3b82f6&ring_color=3b82f6&hide_border=true" alt="GitHub stats"/>
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fsjaimes&layout=compact&langs_count=6&hide_title=true&bg_color=00000000&text_color=8b949e&hide_border=true" alt="Top languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img width="100%" src="https://streak-stats.demolab.com?user=Fsjaimes&background=00000000&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6&currStreakLabel=3b82f6&sideNums=8b949e&sideLabels=8b949e&dates=6e7681&stroke=30363d&hide_border=true" alt="Streak"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fsjaimes&bg_color=00000000&color=8b949e&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&title_color=8b949e&hide_border=true&custom_title=Contributions%20over%20the%20last%2030%20days" alt="Contribution graph"/>
-    </td>
-  </tr>
-</table>
+## 📊 Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fsjaimes&theme=default" alt="GitHub stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fsjaimes&theme=default" alt="Top languages"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Fsjaimes&background=D2E6FB&border=111111&stroke=111111&ring=4085E1&fire=4085E1&currStreakNum=111111&sideNums=111111&currStreakLabel=4085E1&sideLabels=111111&dates=333333&border_radius=14" alt="Streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fsjaimes&bg_color=D2E6FB&color=111111&line=4085E1&point=111111&area=true&area_color=4085E1&title_color=111111&radius=14&custom_title=Frank's%20contribution%20graph" alt="Contribution graph"/>
+
+</div>
