@@ -8,16 +8,16 @@
 
 </div>
 
-## 👋 About me
+👋 About me
 
-I'm a **Full-Stack Web Developer** from Colombia. I build web applications end to end, mostly with **Laravel, Vue and Inertia**, and I'm currently studying **Systems Engineering**.
+I'm a Full-Stack Web Developer and Systems Engineer from Colombia. I build web applications end to end, mostly with Laravel, Vue and Inertia.
 I enjoy turning business processes into clean, maintainable software.
 
-- 💼 Building web platforms with a development team
-- 🎓 Systems Engineering student
-- 🌱 Always learning about software architecture and good practices
+💼 Building web platforms with a development team
+🎓 Systems Engineer
+🌱 Always learning about software architecture and good practices
 
-## 🛠️ Technologies
+🛠️ Technologies
 
 <div align="center">
 
@@ -44,14 +44,12 @@ I enjoy turning business processes into clean, maintainable software.
 
 </div>
 
-## 📊 Statistics
+📊 Statistics
 
 <div align="center">
 
 <img width="100%" src="https://ghchart.rshah.org/4085E1/Fsjaimes" alt="Frank's contributions"/>
 
 <img width="100%" src="https://streak-stats.demolab.com?user=Fsjaimes&background=D2E6FB&border=111111&stroke=111111&ring=4085E1&fire=4085E1&currStreakNum=111111&sideNums=111111&currStreakLabel=4085E1&sideLabels=111111&dates=333333&border_radius=14" alt="Streak"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fsjaimes&bg_color=D2E6FB&color=111111&line=4085E1&point=111111&area=true&area_color=4085E1&title_color=111111&radius=14&custom_title=Frank's%20contribution%20graph" alt="Contribution graph"/>
 
 </div>
