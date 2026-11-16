@@ -48,8 +48,7 @@ I enjoy turning business processes into clean, maintainable software.
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fsjaimes&theme=default" alt="GitHub stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fsjaimes&theme=default" alt="Top languages"/>
+<img width="100%" src="https://ghchart.rshah.org/4085E1/Fsjaimes" alt="Frank's contributions"/>
 
 <img width="100%" src="https://streak-stats.demolab.com?user=Fsjaimes&background=D2E6FB&border=111111&stroke=111111&ring=4085E1&fire=4085E1&currStreakNum=111111&sideNums=111111&currStreakLabel=4085E1&sideLabels=111111&dates=333333&border_radius=14" alt="Streak"/>
 
